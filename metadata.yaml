@@ -1,0 +1,32 @@
+_repo: Modern-Society_36489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36489-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howe, Julia Ward
+    aliases:
+    - Ward, Julia
+    - Howe, Mrs. Samuel Gridley
+    birthdate: 1819
+    deathdate: 1910
+    gutenberg_agent_id: '35885'
+    url: http://www.gutenberg.org/2009/agents/35885
+    wikipedia: http://en.wikipedia.org/wiki/Julia_Ward_Howe
+description: Modern society.--Changes in American society.
+gutenberg_issued: '2011-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36489'
+  lccn: 08033085
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social history'
+- !lcc 'HN'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+title: Modern Society
+url: http://www.gutenberg.org/ebooks/36489
